@@ -10,7 +10,7 @@
 - 🏙️ **Localização**: Lisboa, Portugal 🇵🇹  
 - 🎂 **Idade**: 21 anos  
 - 🎓 **Estudando**: Mecânicas Avançadas em Unity e otimização de desempenho
-- 🏆 **Interesses**: Desenvolvimento de jogos multiplayer, inteligência artificial para NPCs e design de níveis.
+- 🏆 **Interesses**: Criação de jogos 2D e 3D usando Unity, com foco em mecânicas de jogo e experiências envolventes.
 
 ## Jogos e Projetos
 Aqui estão alguns dos meus jogos e projetos, com demonstrações jogáveis, vídeos no YouTube e códigos disponíveis:
