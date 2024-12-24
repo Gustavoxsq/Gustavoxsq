@@ -19,6 +19,7 @@ Aqui estão alguns dos meus jogos e projetos, com demonstrações jogáveis, ví
 
 ## Contato
 📫 E-mail: Carlosgcbdh@gmail.com  
+📞 +351 926 268 368
 🌍 Disponível para trabalho remoto ou presencial em Lisboa, Portugal.  
 
 Vamos criar algo incrível juntos! 🚀
