@@ -17,7 +17,7 @@ Aqui estão alguns dos meus jogos e projetos, com demonstrações jogáveis, ví
 
 🎥 Jogo 2D TIME HUNT: https://youtu.be/TVpTe9D3GSc?si=HWSEtbQNDAiYhEvT
 
-   Jogo Mobile Construção extrema: 
+   Jogo Mobile Construção extrema: https://youtu.be/jEpRbdhVNVM?si=CB6u-TQ3ZzwkO2Zv
 
    Projeto Teste BobSponja:
 
