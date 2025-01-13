@@ -1,11 +1,10 @@
-# Olá, eu sou Gustavo 👋
+ # Olá, eu sou Gustavo 👋
 
 🎮 **Desenvolvedor de Jogos** | 🚀 Apaixonado por **Unity** e **C#**
 
 💻 Atualmente desenvolvendo projetos com foco em mecânicas inovadoras e experiências imersivas. Busco aplicar minha paixão por criar jogos para entregar valor em equipes criativas e dinâmicas.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
----
 
 ## Sobre Mim
 - 🏙️ **Localização**: Lisboa, Portugal 🇵🇹  
