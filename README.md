@@ -4,6 +4,8 @@
 
 💻 Atualmente desenvolvendo projetos com foco em mecânicas inovadoras e experiências imersivas. Busco aplicar minha paixão por criar jogos para entregar valor em equipes criativas e dinâmicas.
 
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
+
 ---
 
 ## Sobre Mim
