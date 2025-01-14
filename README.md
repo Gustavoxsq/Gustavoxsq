@@ -13,7 +13,7 @@
 - 🏆 **Interesses**: Criação de jogos 2D e 3D usando Unity, com foco em mecânicas de jogo e experiências envolventes.
 
 ## Jogos e Projetos
-Aqui estão alguns dos meus jogos e projetos, com demonstrações jogáveis, vídeos no YouTube e códigos disponíveis:
+Aqui estão alguns dos meus jogos e projetos, com demonstrações jogáveis, vídeos no YouTube:
 
 🎥 Jogo 2D TIME HUNT: https://youtu.be/TVpTe9D3GSc?si=QvYki93ohgO_uaVl
 
