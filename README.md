@@ -19,7 +19,7 @@ Aqui estão alguns dos meus jogos e projetos, com demonstrações jogáveis, ví
 
    Jogo Mobile Construção extrema: https://youtu.be/jEpRbdhVNVM?si=ya6y5M38DODJEhGV
 
-   Projeto Teste BobSponja:
+   Projeto Teste BobSponja “Ainda está em constução”: https://youtu.be/yhSHCAkmloI
 
 ## Diplomas
 
