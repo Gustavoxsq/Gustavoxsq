@@ -1,36 +1,58 @@
- # Olá, eu sou Gustavo 👋
+<h1 align="center">
+  Olá, eu sou o Gustavo 👋<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=🎮+Game+Dev+apaixonado+por+Unity;🌐+Futuro+Dev+Web+HTML+%26+CSS;🚀+Criando+experiências+incríveis!" alt="Typing SVG" />
+</h1>
 
-🎮 **Desenvolvedor de Jogos** | 🚀 Apaixonado por **Unity** e **C#**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-💻 Atualmente desenvolvendo projetos com foco em mecânicas inovadoras e experiências imersivas. Busco aplicar minha paixão por criar jogos para entregar valor em equipes criativas e dinâmicas.
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+## 💡 Sobre Mim
 
-## Sobre Mim
-- 🏙️ **Localização**: Lisboa, Portugal 🇵🇹  
-- 🎂 **Idade**: 21 anos  
-- 🎓 **Estudando**: Mecânicas Avançadas em Unity e otimização de desempenho
-- 🏆 **Interesses**: Criação de jogos 2D e 3D usando Unity, com foco em mecânicas de jogo e experiências envolventes.
+- 🏙️ Moro em **Lisboa, Portugal** 🇵🇹  
+- 🎂 Tenho **21 anos**  
+- 📚 Estudando: **Desenvolvimento Web (HTML e CSS)** + **Mecânicas Avançadas em Unity**  
+- 🎮 Curto criar **jogos 2D e 3D** com foco em mecânicas criativas  
+- 👨‍💻 Gosto de ver ideias ganhando vida através do código  
+- ⚡ Fun fact: Programo ouvindo trilhas de jogos clássicos
 
-## Jogos e Projetos
-Aqui estão alguns dos meus jogos e projetos, com demonstrações jogáveis, vídeos no YouTube:
+---
 
-🎥 Jogo 2D TIME HUNT: https://youtu.be/TVpTe9D3GSc?si=QvYki93ohgO_uaVl
+## 🛠️ Tecnologias que conheço
 
-   Jogo Mobile Construção extrema: https://youtu.be/jEpRbdhVNVM?si=ya6y5M38DODJEhGV
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,html,css&theme=dark" />
+</p>
 
-   Projeto Teste BobSponja “Ainda está em constução”: https://youtu.be/yhSHCAkmloI
+---
 
-## Diplomas
+## 🎮 Jogos e Projetos
 
-https://drive.google.com/drive/folders/14--AQe70PeHCsw7OXfxWGNHNH70dxPQL?usp=sharing
+| Projeto                          | Descrição                              | Link                                                                 |
+|----------------------------------|----------------------------------------|----------------------------------------------------------------------|
+| 🕹️ **TIME HUNT (2D)**           | Jogo com foco em mecânicas de tempo    | [🎥 Assista no YouTube](https://youtu.be/TVpTe9D3GSc?si=QvYki93ohgO_uaVl)  |
+| 📱 **Construção Extrema (Mobile)** | Jogo casual para Android              | [🎥 Ver vídeo](https://youtu.be/jEpRbdhVNVM?si=ya6y5M38DODJEhGV)         |
+| 🔧 **Projeto Bob Esponja**        | Protótipo em desenvolvimento           | [🎥 Acompanhar no YouTube](https://youtu.be/yhSHCAkmloI)               |
+| 🌐 **Meu Portfólio Web**         | Site pessoal em HTML e CSS             | 🚧 *Em construção*                                                   |
 
+---
 
-## Contato
-📫 E-mail: Carlosgcbdh@gmail.com  
-📞 +351 926 268 368
+## 📜 Diplomas & Certificações
 
-🌍 Disponível para trabalho remoto ou presencial em Lisboa, Portugal.  
+📁 [Acesse meus diplomas no Google Drive](https://drive.google.com/drive/folders/14--AQe70PeHCsw7OXfxWGNHNH70dxPQL?usp=sharing)
 
-Vamos criar algo incrível juntos! 🚀
+---
+
+## 📬 Contato
+
+📧 **Email:** [Carlosgcbdh@gmail.com](mailto:Carlosgcbdh@gmail.com)  
+📞 **WhatsApp:** +351 926 268 368  
+🌍 **Disponível para trabalho remoto ou presencial em Lisboa**
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Vamos+criar+algo+incrível+juntos!+🚀" alt="Typing Footer" />
+</p>
