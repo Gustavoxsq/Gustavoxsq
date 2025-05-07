@@ -4,6 +4,24 @@
 </h1>
 
 <p align="center">
+  <a href="https://portfoliogustav.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gustavoxsq" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:Carlosgcbdh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/351926268368" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
@@ -30,12 +48,12 @@
 
 ## 🎮 Jogos e Projetos
 
-| Projeto                          | Descrição                              | Link                                                                 |
-|----------------------------------|----------------------------------------|----------------------------------------------------------------------|
-| 🕹️ **TIME HUNT (2D)**           | Jogo com foco em mecânicas de tempo    | [🎥 Assista no YouTube](https://youtu.be/TVpTe9D3GSc?si=QvYki93ohgO_uaVl)  |
-| 📱 **Construção Extrema (Mobile)** | Jogo casual para Android              | [🎥 Ver vídeo](https://youtu.be/jEpRbdhVNVM?si=ya6y5M38DODJEhGV)         |
-| 🔧 **Projeto Bob Esponja**        | Protótipo em desenvolvimento           | [🎥 Acompanhar no YouTube](https://youtu.be/yhSHCAkmloI)               |
-| 🌐 **Meu Portfólio Web**         | Site pessoal em HTML e CSS             | 🚧 *Em construção*                                                   |
+| Projeto                             | Descrição                             | Link                                                                 |
+|-------------------------------------|---------------------------------------|----------------------------------------------------------------------|
+| 🕹️ **TIME HUNT (2D)**               | Jogo com foco em mecânicas de tempo   | [🎥 Assista no YouTube](https://youtu.be/TVpTe9D3GSc?si=QvYki93ohgO_uaVl)  |
+| 📱 **Construção Extrema (Mobile)**  | Jogo casual para Android              | [🎥 Ver vídeo](https://youtu.be/jEpRbdhVNVM?si=ya6y5M38DODJEhGV)         |
+| 🔧 **Projeto Bob Esponja**          | Protótipo em desenvolvimento          | [🎥 Acompanhar no YouTube](https://youtu.be/yhSHCAkmloI)               |
+| 🌐 **Meu Portfólio Web**            | Site pessoal em HTML e CSS            | [🌐 Acessar site](https://portfoliogustav.netlify.app/)               |
 
 ---
 
