@@ -1,15 +1,12 @@
 <h1 align="center">
   Olá, eu sou o Gustavo 👋<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=🎮+Game+Dev+apaixonado+por+Unity;🌐+Futuro+Dev+Web+Front-end+%26+Back-end;🚀+Criando+experiências+incríveis!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🎮+Game+Dev+apaixonado+por+Unity;🌐+Futuro+Dev+Web+Front-end+%26+Back-end;🚀+Criando+experiências+incríveis!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://portfoliogustav.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Aceder%20Portfólio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Gustavoxsq" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -21,39 +18,55 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
 ---
 
 ## 💡 Sobre Mim
 
 - 🏙️ Moro em **Lisboa, Portugal** 🇵🇹  
 - 🎂 Tenho **21 anos**  
-- 📚 Estou a estudar: **Desenvolvimento Web (HTML, CSS e JavaScript)** + **Mecânicas Avançadas em Unity**  
+- 📚 Estudando: **Desenvolvimento Web (HTML, CSS, JavaScript)** + **Mecânicas Avançadas em Unity**  
 - 🎮 Adoro criar **jogos 2D e 3D** com foco em mecânicas criativas  
-- 👨‍💻 Gosto de ver ideias a ganhar vida através do código, tanto **Front-end** como **Back-end**  
+- 👨‍💻 Trabalho tanto com **Front-end** como **Back-end**  
 - ⚡ Curiosidade: Programo sempre a ouvir trilhas de jogos clássicos
 
 ---
 
-## 🛠️ Tecnologias que conheço
+## 🛠️ Skills Interativas “Next Level”
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,html,css,js&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=500&color=FF9900&center=true&vCenter=true&width=600&lines=Unity+%26+C%23+%E2%9C%94;HTML+%26+CSS+%E2%9C%94;JavaScript+%E2%9C%94;Node.js+%E2%9C%94;Git+%E2%9C%94" alt="Skills Animadas" />
+</p>
+
+<p align="center">
+  <!-- Cada badge é um GIF simulando hover -->
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="120" title="Unity" />
+  <img src="https://media.giphy.com/media/l0HlUQj4C9Y8e1pKk/giphy.gif" width="120" title="C#" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="120" title="HTML" />
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="120" title="CSS" />
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="120" title="JavaScript" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120" title="Node.js" />
+  <img src="https://media.giphy.com/media/l0HlBo7eyXzSZkJri/giphy.gif" width="120" title="Git" />
 </p>
 
 ---
 
-## 🎮 Jogos e Projetos
+## 📊 Estatísticas do GitHub
 
-| Projeto                             | Descrição                             | Link                                                                 |
-|-------------------------------------|---------------------------------------|----------------------------------------------------------------------|
-| 🕹️ **TIME HUNT (2D)**               | Jogo com foco em mecânicas de tempo   | [🎥 Assistir no YouTube](https://youtu.be/TVpTe9D3GSc?si=QvYki93ohgO_uaVl)  |
-| 📱 **Construção Extrema (Mobile)**  | Jogo casual para Android              | [🎥 Ver vídeo](https://youtu.be/jEpRbdhVNVM?si=ya6y5M38DODJEhGV)         |
-| 🔧 **Projeto Bob Esponja**          | Protótipo em desenvolvimento          | [🎥 Acompanhar no YouTube](https://youtu.be/yhSHCAkmloI)               |
-| 🌐 **Meu Portfólio Web**            | Site pessoal em HTML, CSS e JavaScript| [🌐 Aceder site](https://portfoliogustav.netlify.app/)               |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavoxsq&show_icons=true&theme=dark&count_private=true&hide_title=true" alt="Estatísticas GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavoxsq&layout=compact&theme=dark" alt="Linguagens GitHub" />
+</p>
+
+---
+
+## 🎮 Projetos Interativos
+
+| Projeto                             | Preview Animado                       | Link                                                                 |
+|-------------------------------------|--------------------------------------|----------------------------------------------------------------------|
+| 🕹️ **TIME HUNT (2D)**               | <img src="https://media.giphy.com/media/TVpTe9D3GSc/giphy.gif" width="150" title="TIME HUNT"/> | [YouTube](https://youtu.be/TVpTe9D3GSc?si=QvYki93ohgO_uaVl)  |
+| 📱 **Construção Extrema (Mobile)**  | <img src="https://media.giphy.com/media/jEpRbdhVNVM/giphy.gif" width="150" title="Construção Extrema"/> | [YouTube](https://youtu.be/jEpRbdhVNVM?si=ya6y5M38DODJEhGV)   |
+| 🔧 **Projeto Bob Esponja**          | <img src="https://media.giphy.com/media/yhSHCAkmloI/giphy.gif" width="150" title="Projeto Bob Esponja"/> | [YouTube](https://youtu.be/yhSHCAkmloI)                         |
+| 🌐 **Meu Portfólio Web**            | <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" title="Portfólio Web"/> | [Aceder](https://portfoliogustav.netlify.app/)                  |
 
 ---
 
@@ -72,5 +85,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Vamos+criar+algo+incrível+juntos!+🚀" alt="Typing Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Vamos%20criar%20algo%20incr%C3%ADvel%20juntos!%20🚀" alt="Typing Footer" />
 </p>
