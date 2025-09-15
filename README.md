@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://portfoliogustav.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Portfólio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Aceder%20Portfólio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
 </p>
 
@@ -31,10 +31,10 @@
 
 - 🏙️ Moro em **Lisboa, Portugal** 🇵🇹  
 - 🎂 Tenho **21 anos**  
-- 📚 Estudando: **Desenvolvimento Web (HTML, CSS e JavaScript)** + **Mecânicas Avançadas em Unity**  
-- 🎮 Curto criar **jogos 2D e 3D** com foco em mecânicas criativas  
-- 👨‍💻 Gosto de ver ideias ganhando vida através do código, tanto **Front-end** quanto **Back-end**  
-- ⚡ Fun fact: Programo ouvindo trilhas de jogos clássicos
+- 📚 Estou a estudar: **Desenvolvimento Web (HTML, CSS e JavaScript)** + **Mecânicas Avançadas em Unity**  
+- 🎮 Adoro criar **jogos 2D e 3D** com foco em mecânicas criativas  
+- 👨‍💻 Gosto de ver ideias a ganhar vida através do código, tanto **Front-end** como **Back-end**  
+- ⚡ Curiosidade: Programo sempre a ouvir trilhas de jogos clássicos
 
 ---
 
@@ -50,20 +50,20 @@
 
 | Projeto                             | Descrição                             | Link                                                                 |
 |-------------------------------------|---------------------------------------|----------------------------------------------------------------------|
-| 🕹️ **TIME HUNT (2D)**               | Jogo com foco em mecânicas de tempo   | [🎥 Assista no YouTube](https://youtu.be/TVpTe9D3GSc?si=QvYki93ohgO_uaVl)  |
+| 🕹️ **TIME HUNT (2D)**               | Jogo com foco em mecânicas de tempo   | [🎥 Assistir no YouTube](https://youtu.be/TVpTe9D3GSc?si=QvYki93ohgO_uaVl)  |
 | 📱 **Construção Extrema (Mobile)**  | Jogo casual para Android              | [🎥 Ver vídeo](https://youtu.be/jEpRbdhVNVM?si=ya6y5M38DODJEhGV)         |
 | 🔧 **Projeto Bob Esponja**          | Protótipo em desenvolvimento          | [🎥 Acompanhar no YouTube](https://youtu.be/yhSHCAkmloI)               |
-| 🌐 **Meu Portfólio Web**            | Site pessoal em HTML, CSS e JavaScript| [🌐 Acessar site](https://portfoliogustav.netlify.app/)               |
+| 🌐 **Meu Portfólio Web**            | Site pessoal em HTML, CSS e JavaScript| [🌐 Aceder site](https://portfoliogustav.netlify.app/)               |
 
 ---
 
 ## 📜 Diplomas & Certificações
 
-📁 [Acesse meus diplomas no Google Drive](https://drive.google.com/drive/folders/14--AQe70PeHCsw7OXfxWGNHNH70dxPQL?usp=sharing)
+📁 [Aceder aos meus diplomas no Google Drive](https://drive.google.com/drive/folders/14--AQe70PeHCsw7OXfxWGNHNH70dxPQL?usp=sharing)
 
 ---
 
-## 📬 Contato
+## 📬 Contacto
 
 📧 **Email:** [Carlosgcbdh@gmail.com](mailto:Carlosgcbdh@gmail.com)  
 📞 **WhatsApp:** +351 926 268 368  
